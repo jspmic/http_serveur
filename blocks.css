@@ -1,0 +1,43 @@
+
+body {
+   background-color: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+   font-family: Quicksand, "Helvetica Neue",Helvetica,sans-serif;
+   color: white;
+}
+
+p {
+   color: white;
+}
+
+ul {
+   color: white;
+   list-style-type: circle;
+}
+
+a:link {
+   margin: 3px;
+   padding: 5.9px;
+   color: white;
+   text-decoration: none;
+   font-size: 18px;
+   font-weight: 400;
+   border: 2px solid rgb(255, 0, 74);
+   border-radius: 15px;
+   box-shadow: -2px 2px 1.5px 1.5px rgb(255, 0, 74);
+}
+
+a:visited {
+   color: white;
+   border: 2px dotted rgb(255, 0, 74);
+}
+
+a:hover {
+   color: rgb(0, 252, 86);
+   border: 3px solid rgb(0, 252, 86);
+   box-shadow: 0px 0px 1.5px 1.5px rgb(0, 252, 86);
+}
+
